@@ -58,6 +58,7 @@ pod 'IGListKit'
 #pod 'YNDropDownMenu'
 pod 'WechatOpenSDK'
 pod 'FHHFPSIndicator'
+pod 'MLeaksFinder'
 end
 
 target 'DaLi' do
